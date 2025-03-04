@@ -24,7 +24,7 @@ Instead of changing variables, it focuses on pure functions (functions that alwa
 
 - **Pure Functions – "No Side Effects"**
 A pure function is a function that:<br>
-✅ Always returns the same output for the same input.
+✅ Always returns the same output for the same input.<br>
 ✅ Does not modify global variables or change external state.<br>
 ✅ Has no side effects (e.g., no printing, no file/database changes).<br>
 
