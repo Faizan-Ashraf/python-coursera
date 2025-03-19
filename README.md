@@ -45,3 +45,10 @@ OOP is a programming paradigm that structures code into objects with data and me
 4. *Polymorphism* → Enables the same function to work differently for different objects.
 
 ---
+### Module, Pakage & Library
+1. **Module**: A single file containing related code (e.g., functions, classes).
+2. **Package**: A collection of modules organized in a directory (may include __init__.py).
+3. **Library**: A collection of reusable code (modules or packages) for common tasks.
+
+---
+
